@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test name="Test_2(failed)">
+    <classes>
+      <class name="DeltaxRegistration.Delatx_registartiongForm.Registration.TC_001_VerifyRegistrationWithSameEmailID">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="verifyRegistrationWithSameEmailID" invocation-numbers="0"/>
+          <include name="setup"/>
+          <include name="afterMethod"/>
+          <include name="endTest"/>
+        </methods>
+      </class> <!-- DeltaxRegistration.Delatx_registartiongForm.Registration.TC_001_VerifyRegistrationWithSameEmailID -->
+      <class name="DeltaxRegistration.Delatx_registartiongForm.Registration.Tc_002_VerifyRegistrationWithInvalidData">
+        <methods>
+          <include name="endTest"/>
+          <include name="beforeMethod"/>
+          <include name="setup"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- DeltaxRegistration.Delatx_registartiongForm.Registration.Tc_002_VerifyRegistrationWithInvalidData -->
+      <class name="DeltaxRegistration.Delatx_registartiongForm.Registration.Tc_003_VerifyRegistrationForIncorrectConfirmPassowrd">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="setup"/>
+          <include name="afterMethod"/>
+          <include name="endTest"/>
+        </methods>
+      </class> <!-- DeltaxRegistration.Delatx_registartiongForm.Registration.Tc_003_VerifyRegistrationForIncorrectConfirmPassowrd -->
+      <class name="DeltaxRegistration.Delatx_registartiongForm.Registration.Tc_00_VerifyRegistrationwithValiddata">
+        <methods>
+          <include name="setup"/>
+          <include name="endTest"/>
+          <include name="beforeMethod"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- DeltaxRegistration.Delatx_registartiongForm.Registration.Tc_00_VerifyRegistrationwithValiddata -->
+    </classes>
+  </test> <!-- Test_2(failed) -->
+</suite> <!-- Failed suite [Suite] -->

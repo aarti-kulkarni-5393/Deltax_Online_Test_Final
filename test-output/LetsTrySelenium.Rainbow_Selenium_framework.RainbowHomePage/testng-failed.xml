@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [LetsTrySelenium.Rainbow_Selenium_framework.RainbowHomePage]">
+  <parameter name="loginURL" value="https://preprodlogin.zycus.net/sso/login"/>
+  <parameter name="browser" value="chrome"/>
+  <listeners>
+    <listener class-name="LetsTrySelenium.Rainbow_Selenium_framework.customListner.RetryListner"/>
+  </listeners>
+  <test name="verifyDiscardCard(failed)">
+    <classes>
+      <class name="LetsTrySelenium.Rainbow_Selenium_framework.RainbowHomePage.TC001_verifyDiscardCard">
+        <methods>
+          <include name="verifyDiscardCard" invocation-numbers="1 1 1 1 2 2 3 3"/>
+          <include name="setup"/>
+          <include name="beforeMethod"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- LetsTrySelenium.Rainbow_Selenium_framework.RainbowHomePage.TC001_verifyDiscardCard -->
+      <class name="LetsTrySelenium.Rainbow_Selenium_framework.RainbowHomePage.TCC00VerifyAddcCard">
+        <methods>
+          <include name="endTest"/>
+          <include name="setup"/>
+          <include name="beforeMethod"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- LetsTrySelenium.Rainbow_Selenium_framework.RainbowHomePage.TCC00VerifyAddcCard -->
+      <class name="LetsTrySelenium.Rainbow_Selenium_framework.RainbowHomePage.TC002_verifyAboutUs">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="setup"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- LetsTrySelenium.Rainbow_Selenium_framework.RainbowHomePage.TC002_verifyAboutUs -->
+    </classes>
+  </test> <!-- verifyDiscardCard(failed) -->
+  <test name="TC002_verifyAboutUs(failed)">
+    <classes>
+      <class name="LetsTrySelenium.Rainbow_Selenium_framework.RainbowHomePage.TC001_verifyDiscardCard">
+        <methods>
+          <include name="setup"/>
+          <include name="beforeMethod"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- LetsTrySelenium.Rainbow_Selenium_framework.RainbowHomePage.TC001_verifyDiscardCard -->
+      <class name="LetsTrySelenium.Rainbow_Selenium_framework.RainbowHomePage.TC002_verifyAboutUs">
+        <methods>
+          <include name="verifyAboutUs" invocation-numbers="0 0 0 0"/>
+          <include name="beforeMethod"/>
+          <include name="setup"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- LetsTrySelenium.Rainbow_Selenium_framework.RainbowHomePage.TC002_verifyAboutUs -->
+      <class name="LetsTrySelenium.Rainbow_Selenium_framework.RainbowHomePage.TCC00VerifyAddcCard">
+        <methods>
+          <include name="endTest"/>
+          <include name="setup"/>
+          <include name="beforeMethod"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- LetsTrySelenium.Rainbow_Selenium_framework.RainbowHomePage.TCC00VerifyAddcCard -->
+    </classes>
+  </test> <!-- TC002_verifyAboutUs(failed) -->
+</suite> <!-- Failed suite [LetsTrySelenium.Rainbow_Selenium_framework.RainbowHomePage] -->

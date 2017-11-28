@@ -1,0 +1,13 @@
+[1123/145325.561:ERROR:process_reader_win.cc(90)] NtQuerySystemInformation: {Not Enough Quota} Not enough virtual memory or paging file quota is available to complete the specified operation.  (0xc0000017)
+[1123/145325.566:ERROR:exception_snapshot_win.cc(87)] thread ID 38788 not found in process
+[1123/145325.566:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed
+[1128/122312.820:ERROR:process_reader_win.cc(90)] NtQuerySystemInformation: {Not Enough Quota} Not enough virtual memory or paging file quota is available to complete the specified operation.  (0xc0000017)
+[1128/122312.829:ERROR:exception_snapshot_win.cc(87)] thread ID 32720 not found in process
+[1128/122312.829:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed
+[1128/122314.185:ERROR:process_info.cc(396)] NtQuerySystemInformation SystemExtendedHandleInformation: {Not Enough Quota} Not enough virtual memory or paging file quota is available to complete the specified operation.  (0xc0000017)
+[1128/122315.270:ERROR:process_info.cc(396)] NtQuerySystemInformation SystemExtendedHandleInformation: {Not Enough Quota} Not enough virtual memory or paging file quota is available to complete the specified operation.  (0xc0000017)
+[1128/124111.669:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights.  (0xc0000022)
+[1128/124111.676:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights.  (0xc0000022)
+[1128/200037.166:ERROR:process_reader_win.cc(90)] NtQuerySystemInformation: {Not Enough Quota} Not enough virtual memory or paging file quota is available to complete the specified operation.  (0xc0000017)
+[1128/200037.170:ERROR:exception_snapshot_win.cc(87)] thread ID 70276 not found in process
+[1128/200037.170:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed

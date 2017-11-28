@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="Test_1">
+    <classes>
+      <class name="DeltaxRegistration.Delatx_registartiongForm.Registration.Tc_00_VerifyRegistrationwithValiddata"/>
+    </classes>
+  </test> <!-- Test -->
+   <test name="Test_2">
+    <classes>
+      <class name="DeltaxRegistration.Delatx_registartiongForm.Registration.TC_001_VerifyRegistrationWithSameEmailID"/>
+    </classes>
+  </test> <!-- Test -->
+  <test name="Test_3">
+    <classes>
+      <class name="DeltaxRegistration.Delatx_registartiongForm.Registration.Tc_002_VerifyRegistrationWithInvalidData"/>
+    </classes>
+  </test> <!-- Test -->
+   <test name="Test_4">
+    <classes>
+      <class name="DeltaxRegistration.Delatx_registartiongForm.Registration.Tc_003_VerifyRegistrationForIncorrectConfirmPassowrd"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

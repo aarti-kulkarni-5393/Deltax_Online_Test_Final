@@ -1,0 +1,587 @@
+2017-11-27 20:56:01 INFO  TestBase:171-navigating tohttp://adjiva.com/qa-test/
+2017-11-27 20:56:04 INFO  TestBase:171-test object created fornull
+2017-11-27 20:56:04 INFO  TestBase:171-==============  starting Tc_00_VerifyRegistrationwithValiddata===============
+2017-11-27 20:56:05 INFO  TestBase:171-==============  finished Tc_00_VerifyRegistrationwithValiddata===============
+2017-11-27 20:56:05 INFO  TestBase:171-getResult method called
+2017-11-27 20:56:06 INFO  TestBase:246-browser closed
+2017-11-27 21:02:37 INFO  TestBase:171-navigating tohttp://adjiva.com/qa-test/
+2017-11-27 21:02:40 INFO  TestBase:246-browser closed
+2017-11-27 21:03:54 INFO  TestBase:171-navigating tohttp://adjiva.com/qa-test/
+2017-11-27 21:03:57 INFO  TestBase:171-test object created fornull
+2017-11-27 21:03:57 INFO  TestBase:171-==============  starting Tc_00_VerifyRegistrationwithValiddata===============
+2017-11-27 21:04:11 INFO  TestBase:171-==============  finished Tc_00_VerifyRegistrationwithValiddata===============
+2017-11-27 21:04:11 INFO  TestBase:171-getResult method called
+2017-11-27 21:05:30 INFO  TestBase:171-navigating tohttp://adjiva.com/qa-test/
+2017-11-27 21:05:32 INFO  TestBase:171-test object created fornull
+2017-11-27 21:05:32 INFO  TestBase:171-==============  starting Tc_00_VerifyRegistrationwithValiddata===============
+2017-11-27 21:05:34 INFO  TestBase:171-==============  finished Tc_00_VerifyRegistrationwithValiddata===============
+2017-11-27 21:05:34 INFO  TestBase:171-getResult method called
+2017-11-27 21:05:35 INFO  TestBase:246-browser closed
+2017-11-27 21:05:58 INFO  TestBase:171-navigating tohttp://adjiva.com/qa-test/
+2017-11-27 21:06:01 INFO  TestBase:171-test object created fornull
+2017-11-27 21:06:01 INFO  TestBase:171-==============  starting Tc_00_VerifyRegistrationwithValiddata===============
+2017-11-27 21:06:02 INFO  TestBase:171-==============  finished Tc_00_VerifyRegistrationwithValiddata===============
+2017-11-27 21:06:02 INFO  TestBase:171-getResult method called
+2017-11-27 21:06:03 INFO  TestBase:246-browser closed
+2017-11-27 21:12:44 INFO  TestBase:171-navigating tohttp://adjiva.com/qa-test/
+2017-11-27 21:12:49 INFO  TestBase:171-test object created fornull
+2017-11-27 21:12:49 INFO  TestBase:171-==============  starting Tc_00_VerifyRegistrationwithValiddata===============
+2017-11-27 21:12:49 INFO  TestBase:171-entered first name and object is:[[FirefoxDriver: firefox on ANY (721ec0b6-ec34-48c9-a57c-5a4284343b2b)] -> name: first_name]
+2017-11-27 21:12:49 INFO  TestBase:171-entered last name and object is:[[FirefoxDriver: firefox on ANY (721ec0b6-ec34-48c9-a57c-5a4284343b2b)] -> name: last_name]
+2017-11-27 21:12:50 INFO  TestBase:171-entered user name and object is:[[FirefoxDriver: firefox on ANY (721ec0b6-ec34-48c9-a57c-5a4284343b2b)] -> name: user_name]
+2017-11-27 21:12:50 INFO  TestBase:171-entered user password and object is:[[FirefoxDriver: firefox on ANY (721ec0b6-ec34-48c9-a57c-5a4284343b2b)] -> name: user_password]
+2017-11-27 21:12:50 INFO  TestBase:171-entered confirm user password and object is:[[FirefoxDriver: firefox on ANY (721ec0b6-ec34-48c9-a57c-5a4284343b2b)] -> name: confirm_password]
+2017-11-27 21:12:50 INFO  TestBase:171-entered confirm email  and object is:[[FirefoxDriver: firefox on ANY (721ec0b6-ec34-48c9-a57c-5a4284343b2b)] -> name: email]
+2017-11-27 21:12:50 INFO  TestBase:171-entered contact no  and object is:[[FirefoxDriver: firefox on ANY (721ec0b6-ec34-48c9-a57c-5a4284343b2b)] -> name: contact_no]
+2017-11-27 21:12:51 INFO  TestBase:171-==============  finished Tc_00_VerifyRegistrationwithValiddata===============
+2017-11-27 21:12:51 INFO  TestBase:171-getResult method called
+2017-11-27 21:12:52 INFO  TestBase:246-browser closed
+2017-11-27 21:14:03 INFO  TestBase:171-navigating tohttp://adjiva.com/qa-test/
+2017-11-27 21:14:06 INFO  TestBase:171-test object created fornull
+2017-11-27 21:14:06 INFO  TestBase:171-==============  starting Tc_00_VerifyRegistrationwithValiddata===============
+2017-11-27 21:14:06 INFO  TestBase:171-entered first name and object is:[[FirefoxDriver: firefox on ANY (57b1970d-b1b9-46a6-98da-87cea2fb1a94)] -> name: first_name]
+2017-11-27 21:14:07 INFO  TestBase:171-entered last name and object is:[[FirefoxDriver: firefox on ANY (57b1970d-b1b9-46a6-98da-87cea2fb1a94)] -> name: last_name]
+2017-11-27 21:14:07 INFO  TestBase:171-entered user name and object is:[[FirefoxDriver: firefox on ANY (57b1970d-b1b9-46a6-98da-87cea2fb1a94)] -> name: user_name]
+2017-11-27 21:14:07 INFO  TestBase:171-entered user password and object is:[[FirefoxDriver: firefox on ANY (57b1970d-b1b9-46a6-98da-87cea2fb1a94)] -> name: user_password]
+2017-11-27 21:14:07 INFO  TestBase:171-entered confirm user password and object is:[[FirefoxDriver: firefox on ANY (57b1970d-b1b9-46a6-98da-87cea2fb1a94)] -> name: confirm_password]
+2017-11-27 21:14:08 INFO  TestBase:171-entered confirm email  and object is:[[FirefoxDriver: firefox on ANY (57b1970d-b1b9-46a6-98da-87cea2fb1a94)] -> name: email]
+2017-11-27 21:14:08 INFO  TestBase:171-entered contact no  and object is:[[FirefoxDriver: firefox on ANY (57b1970d-b1b9-46a6-98da-87cea2fb1a94)] -> name: contact_no]
+2017-11-27 21:14:08 INFO  TestBase:171-==============  finished Tc_00_VerifyRegistrationwithValiddata===============
+2017-11-27 21:14:08 INFO  TestBase:171-getResult method called
+2017-11-27 21:14:09 INFO  TestBase:246-browser closed
+2017-11-27 21:19:15 INFO  TestBase:171-navigating tohttp://adjiva.com/qa-test/
+2017-11-27 21:19:17 INFO  TestBase:171-test object created fornull
+2017-11-27 21:19:17 INFO  TestBase:171-==============  starting Tc_00_VerifyRegistrationwithValiddata===============
+2017-11-27 21:19:18 INFO  TestBase:171-entered first name and object is:[[FirefoxDriver: firefox on ANY (2de2779c-1953-4009-a08a-63507334a9bc)] -> name: first_name]
+2017-11-27 21:19:18 INFO  TestBase:171-entered last name and object is:[[FirefoxDriver: firefox on ANY (2de2779c-1953-4009-a08a-63507334a9bc)] -> name: last_name]
+2017-11-27 21:19:18 INFO  TestBase:171-entered user name and object is:[[FirefoxDriver: firefox on ANY (2de2779c-1953-4009-a08a-63507334a9bc)] -> name: user_name]
+2017-11-27 21:19:18 INFO  TestBase:171-entered user password and object is:[[FirefoxDriver: firefox on ANY (2de2779c-1953-4009-a08a-63507334a9bc)] -> name: user_password]
+2017-11-27 21:19:19 INFO  TestBase:171-entered confirm user password and object is:[[FirefoxDriver: firefox on ANY (2de2779c-1953-4009-a08a-63507334a9bc)] -> name: confirm_password]
+2017-11-27 21:19:19 INFO  TestBase:171-entered confirm email  and object is:[[FirefoxDriver: firefox on ANY (2de2779c-1953-4009-a08a-63507334a9bc)] -> name: email]
+2017-11-27 21:19:19 INFO  TestBase:171-entered contact no  and object is:[[FirefoxDriver: firefox on ANY (2de2779c-1953-4009-a08a-63507334a9bc)] -> name: contact_no]
+2017-11-27 21:19:19 INFO  TestBase:171-==============  finished Tc_00_VerifyRegistrationwithValiddata===============
+2017-11-27 21:19:19 INFO  TestBase:171-getResult method called
+2017-11-27 21:19:20 INFO  TestBase:246-browser closed
+2017-11-27 21:20:22 INFO  TestBase:171-navigating tohttp://adjiva.com/qa-test/
+2017-11-27 21:20:25 INFO  TestBase:171-test object created fornull
+2017-11-27 21:20:25 INFO  TestBase:171-==============  starting Tc_00_VerifyRegistrationwithValiddata===============
+2017-11-27 21:20:25 INFO  TestBase:171-entered first name and object is:[[FirefoxDriver: firefox on ANY (784741fc-a57b-4cba-a62d-2fffd5d2b746)] -> name: first_name]
+2017-11-27 21:20:25 INFO  TestBase:171-entered last name and object is:[[FirefoxDriver: firefox on ANY (784741fc-a57b-4cba-a62d-2fffd5d2b746)] -> name: last_name]
+2017-11-27 21:20:26 INFO  TestBase:171-entered user name and object is:[[FirefoxDriver: firefox on ANY (784741fc-a57b-4cba-a62d-2fffd5d2b746)] -> name: user_name]
+2017-11-27 21:20:26 INFO  TestBase:171-entered user password and object is:[[FirefoxDriver: firefox on ANY (784741fc-a57b-4cba-a62d-2fffd5d2b746)] -> name: user_password]
+2017-11-27 21:20:26 INFO  TestBase:171-entered confirm user password and object is:[[FirefoxDriver: firefox on ANY (784741fc-a57b-4cba-a62d-2fffd5d2b746)] -> name: confirm_password]
+2017-11-27 21:20:26 INFO  TestBase:171-entered confirm email  and object is:[[FirefoxDriver: firefox on ANY (784741fc-a57b-4cba-a62d-2fffd5d2b746)] -> name: email]
+2017-11-27 21:20:26 INFO  TestBase:171-entered contact no  and object is:[[FirefoxDriver: firefox on ANY (784741fc-a57b-4cba-a62d-2fffd5d2b746)] -> name: contact_no]
+2017-11-27 21:20:27 INFO  TestBase:171-==============  finished Tc_00_VerifyRegistrationwithValiddata===============
+2017-11-27 21:20:27 INFO  TestBase:171-getResult method called
+2017-11-27 21:20:28 INFO  TestBase:246-browser closed
+2017-11-27 21:21:09 INFO  TestBase:171-navigating tohttp://adjiva.com/qa-test/
+2017-11-27 21:21:12 INFO  TestBase:171-test object created fornull
+2017-11-27 21:21:12 INFO  TestBase:171-==============  starting Tc_00_VerifyRegistrationwithValiddata===============
+2017-11-27 21:21:12 INFO  TestBase:171-entered first name and object is:[[FirefoxDriver: firefox on ANY (462f97e2-912d-4555-8ad3-ca662357871d)] -> name: first_name]
+2017-11-27 21:21:13 INFO  TestBase:171-entered last name and object is:[[FirefoxDriver: firefox on ANY (462f97e2-912d-4555-8ad3-ca662357871d)] -> name: last_name]
+2017-11-27 21:21:13 INFO  TestBase:171-entered user name and object is:[[FirefoxDriver: firefox on ANY (462f97e2-912d-4555-8ad3-ca662357871d)] -> name: user_name]
+2017-11-27 21:21:13 INFO  TestBase:171-entered user password and object is:[[FirefoxDriver: firefox on ANY (462f97e2-912d-4555-8ad3-ca662357871d)] -> name: user_password]
+2017-11-27 21:21:13 INFO  TestBase:171-entered confirm user password and object is:[[FirefoxDriver: firefox on ANY (462f97e2-912d-4555-8ad3-ca662357871d)] -> name: confirm_password]
+2017-11-27 21:21:14 INFO  TestBase:171-entered confirm email  and object is:[[FirefoxDriver: firefox on ANY (462f97e2-912d-4555-8ad3-ca662357871d)] -> name: email]
+2017-11-27 21:21:14 INFO  TestBase:171-entered contact no  and object is:[[FirefoxDriver: firefox on ANY (462f97e2-912d-4555-8ad3-ca662357871d)] -> name: contact_no]
+2017-11-27 21:21:14 INFO  TestBase:171-screenshot has been taken for:fail
+2017-11-27 21:21:14 INFO  TestBase:171-==============  finished Tc_00_VerifyRegistrationwithValiddata===============
+2017-11-27 21:21:14 INFO  TestBase:171-getResult method called
+2017-11-27 21:21:15 INFO  TestBase:246-browser closed
+2017-11-27 21:22:27 INFO  TestBase:171-navigating tohttp://adjiva.com/qa-test/
+2017-11-27 21:22:31 INFO  TestBase:246-browser closed
+2017-11-27 21:24:27 INFO  TestBase:171-navigating tohttp://adjiva.com/qa-test/
+2017-11-27 21:24:30 INFO  TestBase:171-test object created fornull
+2017-11-27 21:24:30 INFO  TestBase:171-==============  starting Tc_00_VerifyRegistrationwithValiddata===============
+2017-11-27 21:24:30 INFO  TestBase:171-entered first name and object is:[[FirefoxDriver: firefox on ANY (d91f2303-d7e0-4c64-9a0f-9ce201bed892)] -> name: first_name]
+2017-11-27 21:24:31 INFO  TestBase:171-entered last name and object is:[[FirefoxDriver: firefox on ANY (d91f2303-d7e0-4c64-9a0f-9ce201bed892)] -> name: last_name]
+2017-11-27 21:24:31 INFO  TestBase:171-entered user name and object is:[[FirefoxDriver: firefox on ANY (d91f2303-d7e0-4c64-9a0f-9ce201bed892)] -> name: user_name]
+2017-11-27 21:24:31 INFO  TestBase:171-entered user password and object is:[[FirefoxDriver: firefox on ANY (d91f2303-d7e0-4c64-9a0f-9ce201bed892)] -> name: user_password]
+2017-11-27 21:24:31 INFO  TestBase:171-entered confirm user password and object is:[[FirefoxDriver: firefox on ANY (d91f2303-d7e0-4c64-9a0f-9ce201bed892)] -> name: confirm_password]
+2017-11-27 21:24:32 INFO  TestBase:171-entered confirm email  and object is:[[FirefoxDriver: firefox on ANY (d91f2303-d7e0-4c64-9a0f-9ce201bed892)] -> name: email]
+2017-11-27 21:24:32 INFO  TestBase:171-entered contact no  and object is:[[FirefoxDriver: firefox on ANY (d91f2303-d7e0-4c64-9a0f-9ce201bed892)] -> name: contact_no]
+2017-11-27 21:24:32 INFO  TestBase:171-screenshot has been taken for:registration_with_valid_data
+2017-11-27 21:24:32 INFO  TestBase:171-==============  finished Tc_00_VerifyRegistrationwithValiddata===============
+2017-11-27 21:24:32 INFO  TestBase:171-getResult method called
+2017-11-27 21:24:33 INFO  TestBase:246-browser closed
+2017-11-27 21:35:49 INFO  TestBase:171-navigating tohttp://adjiva.com/qa-test/
+2017-11-27 21:35:52 INFO  TestBase:171-test object created fornull
+2017-11-27 21:35:52 INFO  TestBase:171-==============  starting Tc_00_VerifyRegistrationwithValiddata===============
+2017-11-27 21:35:52 INFO  TestBase:171-entered first name and object is:[[FirefoxDriver: firefox on ANY (96e0c476-a9e0-465a-9ae9-16c3e2060955)] -> name: first_name]
+2017-11-27 21:35:52 INFO  TestBase:171-entered last name and object is:[[FirefoxDriver: firefox on ANY (96e0c476-a9e0-465a-9ae9-16c3e2060955)] -> name: last_name]
+2017-11-27 21:35:52 INFO  TestBase:171-entered user name and object is:[[FirefoxDriver: firefox on ANY (96e0c476-a9e0-465a-9ae9-16c3e2060955)] -> name: user_name]
+2017-11-27 21:35:53 INFO  TestBase:171-entered user password and object is:[[FirefoxDriver: firefox on ANY (96e0c476-a9e0-465a-9ae9-16c3e2060955)] -> name: user_password]
+2017-11-27 21:35:53 INFO  TestBase:171-entered confirm user password and object is:[[FirefoxDriver: firefox on ANY (96e0c476-a9e0-465a-9ae9-16c3e2060955)] -> name: confirm_password]
+2017-11-27 21:35:53 INFO  TestBase:171-entered confirm email  and object is:[[FirefoxDriver: firefox on ANY (96e0c476-a9e0-465a-9ae9-16c3e2060955)] -> name: email]
+2017-11-27 21:35:53 INFO  TestBase:171-entered contact no  and object is:[[FirefoxDriver: firefox on ANY (96e0c476-a9e0-465a-9ae9-16c3e2060955)] -> name: contact_no]
+2017-11-27 21:35:53 INFO  TestBase:171-screenshot has been taken for:registration_with_valid_data
+2017-11-27 21:35:53 INFO  TestBase:171-==============  finished Tc_00_VerifyRegistrationwithValiddata===============
+2017-11-27 21:35:53 INFO  TestBase:171-getResult method called
+2017-11-27 21:35:54 INFO  TestBase:246-browser closed
+2017-11-27 21:37:15 INFO  TestBase:171-navigating tohttp://adjiva.com/qa-test/
+2017-11-27 21:37:18 INFO  TestBase:171-test object created fornull
+2017-11-27 21:37:18 INFO  TestBase:171-==============  starting Tc_00_VerifyRegistrationwithValiddata===============
+2017-11-27 21:37:19 INFO  TestBase:171-entered first name and object is:[[FirefoxDriver: firefox on ANY (e45073c1-1cc9-4dcd-8025-08e922db0bd6)] -> name: first_name]
+2017-11-27 21:37:19 INFO  TestBase:171-entered last name and object is:[[FirefoxDriver: firefox on ANY (e45073c1-1cc9-4dcd-8025-08e922db0bd6)] -> name: last_name]
+2017-11-27 21:37:19 INFO  TestBase:171-entered user name and object is:[[FirefoxDriver: firefox on ANY (e45073c1-1cc9-4dcd-8025-08e922db0bd6)] -> name: user_name]
+2017-11-27 21:37:19 INFO  TestBase:171-entered user password and object is:[[FirefoxDriver: firefox on ANY (e45073c1-1cc9-4dcd-8025-08e922db0bd6)] -> name: user_password]
+2017-11-27 21:37:20 INFO  TestBase:171-entered confirm user password and object is:[[FirefoxDriver: firefox on ANY (e45073c1-1cc9-4dcd-8025-08e922db0bd6)] -> name: confirm_password]
+2017-11-27 21:37:20 INFO  TestBase:171-entered confirm email  and object is:[[FirefoxDriver: firefox on ANY (e45073c1-1cc9-4dcd-8025-08e922db0bd6)] -> name: email]
+2017-11-27 21:37:20 INFO  TestBase:171-entered contact no  and object is:[[FirefoxDriver: firefox on ANY (e45073c1-1cc9-4dcd-8025-08e922db0bd6)] -> name: contact_no]
+2017-11-27 21:37:20 INFO  TestBase:171-submit button is  enabled
+2017-11-27 21:37:20 INFO  TestBase:171-screenshot has been taken for:registration_with_valid_data
+2017-11-27 21:37:20 INFO  TestBase:171-==============  finished Tc_00_VerifyRegistrationwithValiddata===============
+2017-11-27 21:37:20 INFO  TestBase:171-getResult method called
+2017-11-27 21:37:21 INFO  TestBase:246-browser closed
+2017-11-27 21:42:58 INFO  TestBase:171-navigating tohttp://adjiva.com/qa-test/
+2017-11-27 21:43:02 INFO  TestBase:171-test object created fornull
+2017-11-27 21:43:02 INFO  TestBase:171-==============  starting Tc_00_VerifyRegistrationwithValiddata===============
+2017-11-27 21:43:02 INFO  TestBase:171-entered first name and object is:[[FirefoxDriver: firefox on ANY (05b46d55-fbfb-479d-9875-b44c4939b953)] -> name: first_name]
+2017-11-27 21:43:02 INFO  TestBase:171-entered last name and object is:[[FirefoxDriver: firefox on ANY (05b46d55-fbfb-479d-9875-b44c4939b953)] -> name: last_name]
+2017-11-27 21:43:02 INFO  TestBase:171-entered user name and object is:[[FirefoxDriver: firefox on ANY (05b46d55-fbfb-479d-9875-b44c4939b953)] -> name: user_name]
+2017-11-27 21:43:02 INFO  TestBase:171-entered user password and object is:[[FirefoxDriver: firefox on ANY (05b46d55-fbfb-479d-9875-b44c4939b953)] -> name: user_password]
+2017-11-27 21:43:03 INFO  TestBase:171-entered confirm user password and object is:[[FirefoxDriver: firefox on ANY (05b46d55-fbfb-479d-9875-b44c4939b953)] -> name: confirm_password]
+2017-11-27 21:43:03 INFO  TestBase:171-entered confirm email  and object is:[[FirefoxDriver: firefox on ANY (05b46d55-fbfb-479d-9875-b44c4939b953)] -> name: email]
+2017-11-27 21:43:03 INFO  TestBase:171-entered contact no  and object is:[[FirefoxDriver: firefox on ANY (05b46d55-fbfb-479d-9875-b44c4939b953)] -> name: contact_no]
+2017-11-27 21:43:03 INFO  TestBase:171-submit button is  enabled
+2017-11-27 21:43:03 INFO  TestBase:171-screenshot has been taken for:registration_with_valid_data
+2017-11-27 21:43:03 INFO  TestBase:171-==============  finished Tc_00_VerifyRegistrationwithValiddata===============
+2017-11-27 21:43:03 INFO  TestBase:171-getResult method called
+2017-11-27 21:43:04 INFO  TestBase:246-browser closed
+2017-11-27 21:44:06 INFO  TestBase:171-navigating tohttp://adjiva.com/qa-test/
+2017-11-27 21:44:09 INFO  TestBase:171-test object created fornull
+2017-11-27 21:44:09 INFO  TestBase:171-==============  starting Tc_00_VerifyRegistrationwithValiddata===============
+2017-11-27 21:44:10 INFO  TestBase:171-entered first name and object is:[[FirefoxDriver: firefox on ANY (93cf0ecf-d083-44c8-ac99-eb5c2217bd9d)] -> name: first_name]
+2017-11-27 21:44:10 INFO  TestBase:171-entered last name and object is:[[FirefoxDriver: firefox on ANY (93cf0ecf-d083-44c8-ac99-eb5c2217bd9d)] -> name: last_name]
+2017-11-27 21:44:10 INFO  TestBase:171-entered user name and object is:[[FirefoxDriver: firefox on ANY (93cf0ecf-d083-44c8-ac99-eb5c2217bd9d)] -> name: user_name]
+2017-11-27 21:44:10 INFO  TestBase:171-entered user password and object is:[[FirefoxDriver: firefox on ANY (93cf0ecf-d083-44c8-ac99-eb5c2217bd9d)] -> name: user_password]
+2017-11-27 21:44:11 INFO  TestBase:171-entered confirm user password and object is:[[FirefoxDriver: firefox on ANY (93cf0ecf-d083-44c8-ac99-eb5c2217bd9d)] -> name: confirm_password]
+2017-11-27 21:44:11 INFO  TestBase:171-entered confirm email  and object is:[[FirefoxDriver: firefox on ANY (93cf0ecf-d083-44c8-ac99-eb5c2217bd9d)] -> name: email]
+2017-11-27 21:44:11 INFO  TestBase:171-entered contact no  and object is:[[FirefoxDriver: firefox on ANY (93cf0ecf-d083-44c8-ac99-eb5c2217bd9d)] -> name: contact_no]
+2017-11-27 21:44:11 INFO  TestBase:171-submit button is  enabled
+2017-11-27 21:44:11 INFO  TestBase:171-screenshot has been taken for:registration_with_valid_data
+2017-11-27 21:44:11 INFO  TestBase:171-==============  finished Tc_00_VerifyRegistrationwithValiddata===============
+2017-11-27 21:44:11 INFO  TestBase:171-getResult method called
+2017-11-27 21:44:12 INFO  TestBase:246-browser closed
+2017-11-27 21:44:52 INFO  TestBase:171-navigating tohttp://adjiva.com/qa-test/
+2017-11-27 21:44:55 INFO  TestBase:171-test object created fornull
+2017-11-27 21:44:55 INFO  TestBase:171-==============  starting Tc_00_VerifyRegistrationwithValiddata===============
+2017-11-27 21:44:55 INFO  TestBase:171-entered first name and object is:[[FirefoxDriver: firefox on ANY (a0acdeb1-7a60-4b49-a7a7-fbdab47ef4b4)] -> name: first_name]
+2017-11-27 21:44:55 INFO  TestBase:171-entered last name and object is:[[FirefoxDriver: firefox on ANY (a0acdeb1-7a60-4b49-a7a7-fbdab47ef4b4)] -> name: last_name]
+2017-11-27 21:44:56 INFO  TestBase:171-entered user name and object is:[[FirefoxDriver: firefox on ANY (a0acdeb1-7a60-4b49-a7a7-fbdab47ef4b4)] -> name: user_name]
+2017-11-27 21:44:56 INFO  TestBase:171-entered user password and object is:[[FirefoxDriver: firefox on ANY (a0acdeb1-7a60-4b49-a7a7-fbdab47ef4b4)] -> name: user_password]
+2017-11-27 21:44:56 INFO  TestBase:171-entered confirm user password and object is:[[FirefoxDriver: firefox on ANY (a0acdeb1-7a60-4b49-a7a7-fbdab47ef4b4)] -> name: confirm_password]
+2017-11-27 21:44:57 INFO  TestBase:171-entered confirm email  and object is:[[FirefoxDriver: firefox on ANY (a0acdeb1-7a60-4b49-a7a7-fbdab47ef4b4)] -> name: email]
+2017-11-27 21:44:57 INFO  TestBase:171-entered contact no  and object is:[[FirefoxDriver: firefox on ANY (a0acdeb1-7a60-4b49-a7a7-fbdab47ef4b4)] -> name: contact_no]
+2017-11-27 21:44:57 INFO  TestBase:171-submit button is not enabled
+2017-11-27 21:44:57 INFO  TestBase:171-screenshot has been taken for:registration_with_valid_data
+2017-11-27 21:44:57 INFO  TestBase:171-==============  finished Tc_00_VerifyRegistrationwithValiddata===============
+2017-11-27 21:44:57 INFO  TestBase:171-getResult method called
+2017-11-27 21:44:58 INFO  TestBase:246-browser closed
+2017-11-27 21:46:03 INFO  TestBase:171-navigating tohttp://adjiva.com/qa-test/
+2017-11-27 21:46:06 INFO  TestBase:171-test object created fornull
+2017-11-27 21:46:06 INFO  TestBase:171-==============  starting Tc_00_VerifyRegistrationwithValiddata===============
+2017-11-27 21:46:07 INFO  TestBase:171-entered first name and object is:[[FirefoxDriver: firefox on ANY (912f79ae-609b-487a-b4c1-a65dacc5f177)] -> name: first_name]
+2017-11-27 21:46:07 INFO  TestBase:171-entered last name and object is:[[FirefoxDriver: firefox on ANY (912f79ae-609b-487a-b4c1-a65dacc5f177)] -> name: last_name]
+2017-11-27 21:46:07 INFO  TestBase:171-entered user name and object is:[[FirefoxDriver: firefox on ANY (912f79ae-609b-487a-b4c1-a65dacc5f177)] -> name: user_name]
+2017-11-27 21:46:07 INFO  TestBase:171-entered user password and object is:[[FirefoxDriver: firefox on ANY (912f79ae-609b-487a-b4c1-a65dacc5f177)] -> name: user_password]
+2017-11-27 21:46:08 INFO  TestBase:171-entered confirm user password and object is:[[FirefoxDriver: firefox on ANY (912f79ae-609b-487a-b4c1-a65dacc5f177)] -> name: confirm_password]
+2017-11-27 21:46:08 INFO  TestBase:171-entered confirm email  and object is:[[FirefoxDriver: firefox on ANY (912f79ae-609b-487a-b4c1-a65dacc5f177)] -> name: email]
+2017-11-27 21:46:08 INFO  TestBase:171-entered contact no  and object is:[[FirefoxDriver: firefox on ANY (912f79ae-609b-487a-b4c1-a65dacc5f177)] -> name: contact_no]
+2017-11-27 21:46:08 INFO  TestBase:171-submit button is not enabled
+2017-11-27 21:46:08 INFO  TestBase:171-screenshot has been taken for:registration_with_valid_data
+2017-11-27 21:46:08 INFO  TestBase:171-==============  finished Tc_00_VerifyRegistrationwithValiddata===============
+2017-11-27 21:46:08 INFO  TestBase:171-getResult method called
+2017-11-27 21:46:09 INFO  TestBase:246-browser closed
+2017-11-28 12:22:04 INFO  TestBase:171-navigating tohttp://adjiva.com/qa-test/
+2017-11-28 12:22:08 INFO  TestBase:171-navigating tohttp://adjiva.com/qa-test/
+2017-11-28 12:22:44 INFO  TestBase:171-creating browser object chrome
+2017-11-28 12:22:47 INFO  TestBase:171-listner registeration done
+2017-11-28 12:22:47 INFO  TestBase:171-navigating tohttp://adjiva.com/qa-test/
+2017-11-28 12:22:50 INFO  TestBase:171-creating browser object chrome
+2017-11-28 12:22:52 INFO  TestBase:171-listner registeration done
+2017-11-28 12:22:52 INFO  TestBase:171-navigating tohttp://adjiva.com/qa-test/
+2017-11-28 12:22:55 INFO  TestBase:171-creating browser object chrome
+2017-11-28 12:22:57 INFO  TestBase:171-listner registeration done
+2017-11-28 12:22:57 INFO  TestBase:171-navigating tohttp://adjiva.com/qa-test/
+2017-11-28 12:23:42 INFO  TestBase:171-creating browser object chrome
+2017-11-28 12:23:44 INFO  TestBase:171-listner registeration done
+2017-11-28 12:23:44 INFO  TestBase:171-navigating tohttp://adjiva.com/qa-test/
+2017-11-28 12:23:47 INFO  TestBase:171-creating browser object chrome
+2017-11-28 12:23:49 INFO  TestBase:171-listner registeration done
+2017-11-28 12:23:49 INFO  TestBase:171-navigating tohttp://adjiva.com/qa-test/
+2017-11-28 12:23:52 INFO  TestBase:171-test object created fornull
+2017-11-28 12:23:52 INFO  TestBase:171-==============  Starting Tc_003_VerifyRegistrationForIncorrectConfirmPassowrd===============
+2017-11-28 12:23:52 INFO  TestBase:171-Register user with Confrim password is wrong 
+2017-11-28 12:23:52 INFO  TestBase:171-screenshot has been taken for:blank
+2017-11-28 12:23:53 INFO  TestBase:171-getResult method called
+2017-11-28 12:23:53 INFO  TestBase:171-test object created fornull
+2017-11-28 12:23:53 INFO  TestBase:171-==============  starting Tc_00_VerifyRegistrationwithValiddata===============
+2017-11-28 12:23:53 INFO  TestBase:171-Register user with userId data
+2017-11-28 12:23:53 INFO  TestBase:171-screenshot has been taken for:blank
+2017-11-28 12:23:53 INFO  TestBase:171-getResult method called
+2017-11-28 12:23:53 INFO  TestBase:171-test object created fornull
+2017-11-28 12:23:53 INFO  TestBase:171-==============  Starting Tc_002_VerifyRegistrationWithInvalidData===============
+2017-11-28 12:23:53 INFO  TestBase:171-Fiiling user details where Data is invalid 
+2017-11-28 12:23:53 INFO  TestBase:171-screenshot has been taken for:blank
+2017-11-28 12:23:53 INFO  TestBase:171-getResult method called
+2017-11-28 12:23:53 INFO  TestBase:171-test object created fornull
+2017-11-28 12:23:53 INFO  TestBase:171-==============  Starting TC_001_VerifyRegistrationWithSameEmailID===============
+2017-11-28 12:23:53 INFO  TestBase:171-Register user with userId data
+2017-11-28 12:23:53 INFO  TestBase:171-Filling  user details where  already used EmailId is given and it is:null
+2017-11-28 12:23:54 INFO  TestBase:171-screenshot has been taken for:blank
+2017-11-28 12:23:54 INFO  TestBase:171-getResult method called
+2017-11-28 12:23:54 INFO  TestBase:171-test object created fornull
+2017-11-28 12:23:54 INFO  TestBase:171-==============  starting Tc_00_VerifyRegistrationwithValiddata===============
+2017-11-28 12:23:54 INFO  TestBase:171-entered first name and object is:[[ChromeDriver: chrome on XP (13cf3815c11a6143bd9bad7fcf8da2bc)] -> name: first_name]
+2017-11-28 12:23:55 INFO  TestBase:171-entered last name and object is:[[ChromeDriver: chrome on XP (13cf3815c11a6143bd9bad7fcf8da2bc)] -> name: last_name]
+2017-11-28 12:23:55 INFO  TestBase:171-entered user name and object is:[[ChromeDriver: chrome on XP (13cf3815c11a6143bd9bad7fcf8da2bc)] -> name: user_name]
+2017-11-28 12:23:56 INFO  TestBase:171-entered user password and object is:[[ChromeDriver: chrome on XP (13cf3815c11a6143bd9bad7fcf8da2bc)] -> name: user_password]
+2017-11-28 12:23:57 INFO  TestBase:171-entered confirm user password and object is:[[ChromeDriver: chrome on XP (13cf3815c11a6143bd9bad7fcf8da2bc)] -> name: confirm_password]
+2017-11-28 12:23:58 INFO  TestBase:171-entered confirm email  and object is:[[ChromeDriver: chrome on XP (13cf3815c11a6143bd9bad7fcf8da2bc)] -> name: email]
+2017-11-28 12:23:59 INFO  TestBase:171-entered contact no  and object is:[[ChromeDriver: chrome on XP (13cf3815c11a6143bd9bad7fcf8da2bc)] -> name: contact_no]
+2017-11-28 12:23:59 INFO  TestBase:171-submit button is not enabled
+2017-11-28 12:24:00 INFO  TestBase:171-screenshot has been taken for:registration_with_valid_data
+2017-11-28 12:24:00 INFO  TestBase:171-==============  finished Tc_00_VerifyRegistrationwithValiddata===============
+2017-11-28 12:24:00 INFO  TestBase:171-getResult method called
+2017-11-28 12:24:00 INFO  TestBase:171-test object created fornull
+2017-11-28 12:24:00 INFO  TestBase:171-==============  starting Tc_00_VerifyRegistrationwithValiddata===============
+2017-11-28 12:24:01 INFO  TestBase:171-screenshot has been taken for:blank
+2017-11-28 12:24:01 INFO  TestBase:171-getResult method called
+2017-11-28 12:24:03 INFO  TestBase:246-browser closed
+2017-11-28 12:24:03 INFO  TestBase:246-browser closed
+2017-11-28 12:24:03 INFO  TestBase:246-browser closed
+2017-11-28 12:24:03 INFO  TestBase:246-browser closed
+2017-11-28 12:24:03 INFO  TestBase:246-browser closed
+2017-11-28 12:25:04 INFO  TestBase:171-creating browser object chrome
+2017-11-28 12:25:07 INFO  TestBase:171-listner registeration done
+2017-11-28 12:25:07 INFO  TestBase:171-navigating tohttp://adjiva.com/qa-test/
+2017-11-28 12:25:10 INFO  TestBase:171-creating browser object chrome
+2017-11-28 12:25:12 INFO  TestBase:171-listner registeration done
+2017-11-28 12:25:12 INFO  TestBase:171-navigating tohttp://adjiva.com/qa-test/
+2017-11-28 12:25:15 INFO  TestBase:171-creating browser object chrome
+2017-11-28 12:40:29 INFO  TestBase:171-creating browser object chrome
+2017-11-28 12:40:32 INFO  TestBase:171-listner registeration done
+2017-11-28 12:40:32 INFO  TestBase:171-navigating tohttp://adjiva.com/qa-test/
+2017-11-28 12:40:35 INFO  TestBase:171-test object created fornull
+2017-11-28 12:40:35 INFO  TestBase:171-==============  starting Tc_00_VerifyRegistrationwithValiddata===============
+2017-11-28 12:40:35 INFO  TestBase:171-entered first name and object is:[[ChromeDriver: chrome on XP (5e23ee74eed211c181e46b630787e1fc)] -> name: first_name]
+2017-11-28 12:40:35 INFO  TestBase:171-entered last name and object is:[[ChromeDriver: chrome on XP (5e23ee74eed211c181e46b630787e1fc)] -> name: last_name]
+2017-11-28 12:40:37 INFO  TestBase:171-entered user name and object is:[[ChromeDriver: chrome on XP (5e23ee74eed211c181e46b630787e1fc)] -> name: user_name]
+2017-11-28 12:40:37 INFO  TestBase:171-entered user password and object is:[[ChromeDriver: chrome on XP (5e23ee74eed211c181e46b630787e1fc)] -> name: user_password]
+2017-11-28 12:40:37 INFO  TestBase:171-entered confirm user password and object is:[[ChromeDriver: chrome on XP (5e23ee74eed211c181e46b630787e1fc)] -> name: confirm_password]
+2017-11-28 12:40:38 INFO  TestBase:171-entered confirm email  and object is:[[ChromeDriver: chrome on XP (5e23ee74eed211c181e46b630787e1fc)] -> name: email]
+2017-11-28 12:40:39 INFO  TestBase:171-entered contact no  and object is:[[ChromeDriver: chrome on XP (5e23ee74eed211c181e46b630787e1fc)] -> name: contact_no]
+2017-11-28 12:40:39 INFO  TestBase:171-creating browser object chrome
+2017-11-28 12:40:41 INFO  TestBase:171-listner registeration done
+2017-11-28 12:40:41 INFO  TestBase:171-navigating tohttp://adjiva.com/qa-test/
+2017-11-28 12:40:45 INFO  TestBase:171-test object created fornull
+2017-11-28 12:40:45 INFO  TestBase:171-==============  Starting TC_001_VerifyRegistrationWithSameEmailID===============
+2017-11-28 12:40:45 INFO  TestBase:171-Register user with userId data
+2017-11-28 12:40:45 INFO  TestBase:171-Filling  user details where  already used EmailId is given and it is:null
+2017-11-28 12:40:47 INFO  TestBase:171-screenshot has been taken for:blank
+2017-11-28 12:40:47 INFO  TestBase:171-getResult method called
+2017-11-28 12:40:48 INFO  TestBase:246-browser closed
+2017-11-28 12:40:48 INFO  TestBase:171-creating browser object chrome
+2017-11-28 12:40:51 INFO  TestBase:171-listner registeration done
+2017-11-28 12:40:51 INFO  TestBase:171-navigating tohttp://adjiva.com/qa-test/
+2017-11-28 12:40:59 INFO  TestBase:171-test object created fornull
+2017-11-28 12:40:59 INFO  TestBase:171-==============  Starting Tc_002_VerifyRegistrationWithInvalidData===============
+2017-11-28 12:40:59 INFO  TestBase:171-Fiiling user details where Data is invalid 
+2017-11-28 12:41:00 INFO  TestBase:171-creating browser object chrome
+2017-11-28 12:46:27 INFO  TestBase:171-creating browser object chrome
+2017-11-28 12:46:30 INFO  TestBase:171-listner registeration done
+2017-11-28 12:46:30 INFO  TestBase:171-navigating tohttp://adjiva.com/qa-test/
+2017-11-28 12:46:33 INFO  TestBase:171-test object created fornull
+2017-11-28 12:46:33 INFO  TestBase:171-==============  starting Tc_00_VerifyRegistrationwithValiddata===============
+2017-11-28 12:46:34 INFO  TestBase:171-entered first name and object is:[[ChromeDriver: chrome on XP (d87aa55cdb5d68b99218931a56923241)] -> name: first_name]
+2017-11-28 12:46:34 INFO  TestBase:171-entered last name and object is:[[ChromeDriver: chrome on XP (d87aa55cdb5d68b99218931a56923241)] -> name: last_name]
+2017-11-28 12:46:34 INFO  TestBase:171-entered user name and object is:[[ChromeDriver: chrome on XP (d87aa55cdb5d68b99218931a56923241)] -> name: user_name]
+2017-11-28 12:46:35 INFO  TestBase:171-entered user password and object is:[[ChromeDriver: chrome on XP (d87aa55cdb5d68b99218931a56923241)] -> name: user_password]
+2017-11-28 12:46:35 INFO  TestBase:171-entered confirm user password and object is:[[ChromeDriver: chrome on XP (d87aa55cdb5d68b99218931a56923241)] -> name: confirm_password]
+2017-11-28 12:46:36 INFO  TestBase:171-entered confirm email  and object is:[[ChromeDriver: chrome on XP (d87aa55cdb5d68b99218931a56923241)] -> name: email]
+2017-11-28 12:46:36 INFO  TestBase:171-entered contact no  and object is:[[ChromeDriver: chrome on XP (d87aa55cdb5d68b99218931a56923241)] -> name: contact_no]
+2017-11-28 12:46:36 INFO  TestBase:171-submit button is not enabled
+2017-11-28 12:46:37 INFO  TestBase:171-screenshot has been taken for:registration_with_valid_data
+2017-11-28 12:46:37 INFO  TestBase:171-==============  finished Tc_00_VerifyRegistrationwithValiddata===============
+2017-11-28 12:46:37 INFO  TestBase:171-getResult method called
+2017-11-28 12:46:37 INFO  TestBase:171-test object created fornull
+2017-11-28 12:46:37 INFO  TestBase:171-==============  starting Tc_00_VerifyRegistrationwithValiddata===============
+2017-11-28 12:46:37 INFO  TestBase:171-screenshot has been taken for:blank
+2017-11-28 12:46:37 INFO  TestBase:171-getResult method called
+2017-11-28 12:46:39 INFO  TestBase:246-browser closed
+2017-11-28 12:46:39 INFO  TestBase:171-creating browser object chrome
+2017-11-28 12:46:41 INFO  TestBase:171-listner registeration done
+2017-11-28 12:46:41 INFO  TestBase:171-navigating tohttp://adjiva.com/qa-test/
+2017-11-28 12:46:44 INFO  TestBase:171-test object created fornull
+2017-11-28 12:46:44 INFO  TestBase:171-==============  Starting TC_001_VerifyRegistrationWithSameEmailID===============
+2017-11-28 12:46:44 INFO  TestBase:171-Register user with userId data
+2017-11-28 12:46:44 INFO  TestBase:171-Filling  user details where  already used EmailId is given and it is:null
+2017-11-28 12:46:44 INFO  TestBase:171-screenshot has been taken for:blank
+2017-11-28 12:46:44 INFO  TestBase:171-getResult method called
+2017-11-28 12:46:45 INFO  TestBase:246-browser closed
+2017-11-28 12:46:45 INFO  TestBase:171-creating browser object chrome
+2017-11-28 12:46:48 INFO  TestBase:171-listner registeration done
+2017-11-28 12:46:48 INFO  TestBase:171-navigating tohttp://adjiva.com/qa-test/
+2017-11-28 12:46:50 INFO  TestBase:171-test object created fornull
+2017-11-28 12:46:50 INFO  TestBase:171-==============  Starting Tc_002_VerifyRegistrationWithInvalidData===============
+2017-11-28 12:46:50 INFO  TestBase:171-Fiiling user details where Data is invalid 
+2017-11-28 12:46:51 INFO  TestBase:171-screenshot has been taken for:blank
+2017-11-28 12:46:51 INFO  TestBase:171-getResult method called
+2017-11-28 12:46:52 INFO  TestBase:246-browser closed
+2017-11-28 12:46:52 INFO  TestBase:171-creating browser object chrome
+2017-11-28 12:46:54 INFO  TestBase:171-listner registeration done
+2017-11-28 12:46:54 INFO  TestBase:171-navigating tohttp://adjiva.com/qa-test/
+2017-11-28 12:46:57 INFO  TestBase:171-test object created fornull
+2017-11-28 12:46:57 INFO  TestBase:171-==============  Starting Tc_003_VerifyRegistrationForIncorrectConfirmPassowrd===============
+2017-11-28 12:46:57 INFO  TestBase:171-Register user with Confrim password is wrong 
+2017-11-28 12:46:57 INFO  TestBase:171-screenshot has been taken for:blank
+2017-11-28 12:46:57 INFO  TestBase:171-getResult method called
+2017-11-28 12:46:59 INFO  TestBase:246-browser closed
+2017-11-28 12:49:06 INFO  TestBase:171-creating browser object chrome
+2017-11-28 12:49:09 INFO  TestBase:171-listner registeration done
+2017-11-28 12:49:09 INFO  TestBase:171-navigating tohttp://adjiva.com/qa-test/
+2017-11-28 12:49:12 INFO  TestBase:171-test object created fornull
+2017-11-28 12:49:12 INFO  TestBase:171-==============  Starting TC_001_VerifyRegistrationWithSameEmailID===============
+2017-11-28 12:49:12 INFO  TestBase:171-Register user with userId data
+2017-11-28 12:49:12 INFO  TestBase:171-Filling  user details where  already used EmailId is given and it is:null
+2017-11-28 12:49:13 INFO  TestBase:171-screenshot has been taken for:blank
+2017-11-28 12:49:13 INFO  TestBase:171-getResult method called
+2017-11-28 12:49:14 INFO  TestBase:246-browser closed
+2017-11-28 12:51:29 INFO  TestBase:171-creating browser object chrome
+2017-11-28 12:51:31 INFO  TestBase:171-listner registeration done
+2017-11-28 12:51:31 INFO  TestBase:171-navigating tohttp://adjiva.com/qa-test/
+2017-11-28 12:51:35 INFO  TestBase:171-test object created fornull
+2017-11-28 12:51:35 INFO  TestBase:171-==============  Starting TC_001_VerifyRegistrationWithSameEmailID===============
+2017-11-28 12:51:35 INFO  TestBase:171-Register user with userId data
+2017-11-28 12:51:35 INFO  TestBase:171-Filling  user details where  already used EmailId is given and it is:null
+2017-11-28 12:51:35 INFO  TestBase:171-screenshot has been taken for:blank
+2017-11-28 12:51:35 INFO  TestBase:171-getResult method called
+2017-11-28 12:51:37 INFO  TestBase:246-browser closed
+2017-11-28 12:56:33 INFO  TestBase:171-creating browser object chrome
+2017-11-28 12:56:36 INFO  TestBase:171-listner registeration done
+2017-11-28 12:56:36 INFO  TestBase:171-navigating tohttp://adjiva.com/qa-test/
+2017-11-28 12:56:39 INFO  TestBase:171-test object created fornull
+2017-11-28 12:56:39 INFO  TestBase:171-==============  Starting TC_001_VerifyRegistrationWithSameEmailID===============
+2017-11-28 12:56:39 INFO  TestBase:171-Register user with userId data
+2017-11-28 12:56:39 INFO  TestBase:171-Filling  user details where  already used EmailId is given and it is:aartikulkarni25@yahoo.com
+2017-11-28 12:56:40 INFO  TestBase:171-entered first name and object is:[[ChromeDriver: chrome on XP (8c7296aa90cfc8fe1916fe1c46f17123)] -> name: first_name]
+2017-11-28 12:56:40 INFO  TestBase:171-entered last name and object is:[[ChromeDriver: chrome on XP (8c7296aa90cfc8fe1916fe1c46f17123)] -> name: last_name]
+2017-11-28 12:56:41 INFO  TestBase:171-entered user name and object is:[[ChromeDriver: chrome on XP (8c7296aa90cfc8fe1916fe1c46f17123)] -> name: user_name]
+2017-11-28 12:56:41 INFO  TestBase:171-entered user password and object is:[[ChromeDriver: chrome on XP (8c7296aa90cfc8fe1916fe1c46f17123)] -> name: user_password]
+2017-11-28 12:56:41 INFO  TestBase:171-entered confirm user password and object is:[[ChromeDriver: chrome on XP (8c7296aa90cfc8fe1916fe1c46f17123)] -> name: confirm_password]
+2017-11-28 12:56:42 INFO  TestBase:171-entered confirm email  and object is:[[ChromeDriver: chrome on XP (8c7296aa90cfc8fe1916fe1c46f17123)] -> name: email]
+2017-11-28 12:56:42 INFO  TestBase:171-entered contact no  and object is:[[ChromeDriver: chrome on XP (8c7296aa90cfc8fe1916fe1c46f17123)] -> name: contact_no]
+2017-11-28 12:56:42 INFO  TestBase:171-Submitting Registration Form
+2017-11-28 12:56:42 INFO  TestBase:171-submit button is not enabled
+2017-11-28 12:56:43 INFO  TestBase:171-screenshot has been taken for:blank
+2017-11-28 12:56:43 INFO  TestBase:171-getResult method called
+2017-11-28 12:56:44 INFO  TestBase:246-browser closed
+2017-11-28 12:57:20 INFO  TestBase:171-creating browser object chrome
+2017-11-28 12:57:23 INFO  TestBase:171-listner registeration done
+2017-11-28 12:57:23 INFO  TestBase:171-navigating tohttp://adjiva.com/qa-test/
+2017-11-28 12:57:34 INFO  TestBase:171-test object created fornull
+2017-11-28 12:57:34 INFO  TestBase:171-==============  starting Tc_00_VerifyRegistrationwithValiddata===============
+2017-11-28 12:57:35 INFO  TestBase:171-entered first name and object is:[[ChromeDriver: chrome on XP (c519e71672e27e76123c45a532fe40b9)] -> name: first_name]
+2017-11-28 12:57:35 INFO  TestBase:171-entered last name and object is:[[ChromeDriver: chrome on XP (c519e71672e27e76123c45a532fe40b9)] -> name: last_name]
+2017-11-28 12:57:36 INFO  TestBase:171-entered user name and object is:[[ChromeDriver: chrome on XP (c519e71672e27e76123c45a532fe40b9)] -> name: user_name]
+2017-11-28 12:57:36 INFO  TestBase:171-entered user password and object is:[[ChromeDriver: chrome on XP (c519e71672e27e76123c45a532fe40b9)] -> name: user_password]
+2017-11-28 12:57:36 INFO  TestBase:171-entered confirm user password and object is:[[ChromeDriver: chrome on XP (c519e71672e27e76123c45a532fe40b9)] -> name: confirm_password]
+2017-11-28 12:57:37 INFO  TestBase:171-entered confirm email  and object is:[[ChromeDriver: chrome on XP (c519e71672e27e76123c45a532fe40b9)] -> name: email]
+2017-11-28 12:57:37 INFO  TestBase:171-entered contact no  and object is:[[ChromeDriver: chrome on XP (c519e71672e27e76123c45a532fe40b9)] -> name: contact_no]
+2017-11-28 12:57:37 INFO  TestBase:171-submit button is not enabled
+2017-11-28 12:57:38 INFO  TestBase:171-screenshot has been taken for:registration_with_valid_data
+2017-11-28 12:57:38 INFO  TestBase:171-==============  finished Tc_00_VerifyRegistrationwithValiddata===============
+2017-11-28 12:57:38 INFO  TestBase:171-getResult method called
+2017-11-28 12:57:39 INFO  TestBase:246-browser closed
+2017-11-28 12:57:39 INFO  TestBase:171-creating browser object chrome
+2017-11-28 12:57:41 INFO  TestBase:171-listner registeration done
+2017-11-28 12:57:41 INFO  TestBase:171-navigating tohttp://adjiva.com/qa-test/
+2017-11-28 12:57:44 INFO  TestBase:171-test object created fornull
+2017-11-28 12:57:44 INFO  TestBase:171-==============  Starting TC_001_VerifyRegistrationWithSameEmailID===============
+2017-11-28 12:57:44 INFO  TestBase:171-Register user with userId data
+2017-11-28 12:57:44 INFO  TestBase:171-Filling  user details where  already used EmailId is given and it is:aartikulkarni25@yahoo.com
+2017-11-28 12:57:44 INFO  TestBase:171-entered first name and object is:[[ChromeDriver: chrome on XP (c2c0148a428dda7569e0a065fe4c4fdc)] -> name: first_name]
+2017-11-28 12:57:44 INFO  TestBase:171-entered last name and object is:[[ChromeDriver: chrome on XP (c2c0148a428dda7569e0a065fe4c4fdc)] -> name: last_name]
+2017-11-28 12:57:45 INFO  TestBase:171-entered user name and object is:[[ChromeDriver: chrome on XP (c2c0148a428dda7569e0a065fe4c4fdc)] -> name: user_name]
+2017-11-28 12:57:45 INFO  TestBase:171-entered user password and object is:[[ChromeDriver: chrome on XP (c2c0148a428dda7569e0a065fe4c4fdc)] -> name: user_password]
+2017-11-28 12:57:46 INFO  TestBase:171-entered confirm user password and object is:[[ChromeDriver: chrome on XP (c2c0148a428dda7569e0a065fe4c4fdc)] -> name: confirm_password]
+2017-11-28 12:57:47 INFO  TestBase:171-entered confirm email  and object is:[[ChromeDriver: chrome on XP (c2c0148a428dda7569e0a065fe4c4fdc)] -> name: email]
+2017-11-28 12:57:47 INFO  TestBase:171-entered contact no  and object is:[[ChromeDriver: chrome on XP (c2c0148a428dda7569e0a065fe4c4fdc)] -> name: contact_no]
+2017-11-28 12:57:47 INFO  TestBase:171-Submitting Registration Form
+2017-11-28 12:57:47 INFO  TestBase:171-submit button is not enabled
+2017-11-28 12:57:47 INFO  TestBase:171-screenshot has been taken for:blank
+2017-11-28 12:57:47 INFO  TestBase:171-getResult method called
+2017-11-28 12:57:49 INFO  TestBase:246-browser closed
+2017-11-28 12:57:49 INFO  TestBase:171-creating browser object chrome
+2017-11-28 12:57:51 INFO  TestBase:171-listner registeration done
+2017-11-28 12:57:51 INFO  TestBase:171-navigating tohttp://adjiva.com/qa-test/
+2017-11-28 12:57:53 INFO  TestBase:171-test object created fornull
+2017-11-28 12:57:53 INFO  TestBase:171-==============  Starting Tc_002_VerifyRegistrationWithInvalidData===============
+2017-11-28 12:57:53 INFO  TestBase:171-Fiiling user details where Data is invalid 
+2017-11-28 12:57:54 INFO  TestBase:171-entered first name and object is:[[ChromeDriver: chrome on XP (c50344c7aa490d80bfecaafe6200c3cf)] -> name: first_name]
+2017-11-28 12:57:54 INFO  TestBase:171-entered last name and object is:[[ChromeDriver: chrome on XP (c50344c7aa490d80bfecaafe6200c3cf)] -> name: last_name]
+2017-11-28 12:57:54 INFO  TestBase:171-entered user name and object is:[[ChromeDriver: chrome on XP (c50344c7aa490d80bfecaafe6200c3cf)] -> name: user_name]
+2017-11-28 12:57:55 INFO  TestBase:171-entered user password and object is:[[ChromeDriver: chrome on XP (c50344c7aa490d80bfecaafe6200c3cf)] -> name: user_password]
+2017-11-28 12:57:55 INFO  TestBase:171-entered confirm user password and object is:[[ChromeDriver: chrome on XP (c50344c7aa490d80bfecaafe6200c3cf)] -> name: confirm_password]
+2017-11-28 12:57:56 INFO  TestBase:171-entered confirm email  and object is:[[ChromeDriver: chrome on XP (c50344c7aa490d80bfecaafe6200c3cf)] -> name: email]
+2017-11-28 12:57:56 INFO  TestBase:171-entered contact no  and object is:[[ChromeDriver: chrome on XP (c50344c7aa490d80bfecaafe6200c3cf)] -> name: contact_no]
+2017-11-28 12:57:56 INFO  TestBase:171-submit button is not enabled
+2017-11-28 12:57:56 INFO  TestBase:171-screenshot has been taken for:registration_with_valid_data
+2017-11-28 12:57:56 INFO  TestBase:171-==============  Finished Tc_002_VerifyRegistrationWithInvalidData===============
+2017-11-28 12:57:56 INFO  TestBase:171-getResult method called
+2017-11-28 12:57:58 INFO  TestBase:246-browser closed
+2017-11-28 12:57:58 INFO  TestBase:171-creating browser object chrome
+2017-11-28 12:58:00 INFO  TestBase:171-listner registeration done
+2017-11-28 12:58:00 INFO  TestBase:171-navigating tohttp://adjiva.com/qa-test/
+2017-11-28 12:58:03 INFO  TestBase:171-test object created fornull
+2017-11-28 12:58:03 INFO  TestBase:171-==============  Starting Tc_003_VerifyRegistrationForIncorrectConfirmPassowrd===============
+2017-11-28 12:58:03 INFO  TestBase:171-Register user with Confrim password is wrong 
+2017-11-28 12:58:03 INFO  TestBase:171-entered first name and object is:[[ChromeDriver: chrome on XP (97e4b8bde4754ac4be74ef02f43f94a5)] -> name: first_name]
+2017-11-28 12:58:04 INFO  TestBase:171-entered last name and object is:[[ChromeDriver: chrome on XP (97e4b8bde4754ac4be74ef02f43f94a5)] -> name: last_name]
+2017-11-28 12:58:04 INFO  TestBase:171-entered user name and object is:[[ChromeDriver: chrome on XP (97e4b8bde4754ac4be74ef02f43f94a5)] -> name: user_name]
+2017-11-28 12:58:05 INFO  TestBase:171-entered user password and object is:[[ChromeDriver: chrome on XP (97e4b8bde4754ac4be74ef02f43f94a5)] -> name: user_password]
+2017-11-28 12:58:05 INFO  TestBase:171-entered confirm user password and object is:[[ChromeDriver: chrome on XP (97e4b8bde4754ac4be74ef02f43f94a5)] -> name: confirm_password]
+2017-11-28 12:58:05 INFO  TestBase:171-entered confirm email  and object is:[[ChromeDriver: chrome on XP (97e4b8bde4754ac4be74ef02f43f94a5)] -> name: email]
+2017-11-28 12:58:06 INFO  TestBase:171-entered contact no  and object is:[[ChromeDriver: chrome on XP (97e4b8bde4754ac4be74ef02f43f94a5)] -> name: contact_no]
+2017-11-28 12:58:06 INFO  TestBase:171-submit button is not enabled
+2017-11-28 12:58:06 INFO  TestBase:171-screenshot has been taken for:Tc_003_VerifyRegistrationForIncorrectConfirmPassowrd
+2017-11-28 12:58:06 INFO  TestBase:171-==============  Finished Tc_003_VerifyRegistrationForIncorrectConfirmPassowrd===============
+2017-11-28 12:58:06 INFO  TestBase:171-getResult method called
+2017-11-28 12:58:08 INFO  TestBase:246-browser closed
+2017-11-28 19:58:20 INFO  TestBase:171-creating browser object chrome
+2017-11-28 19:58:23 INFO  TestBase:171-listner registeration done
+2017-11-28 19:58:23 INFO  TestBase:171-navigating tohttp://adjiva.com/qa-test/
+2017-11-28 19:58:29 INFO  TestBase:243-browser closed
+2017-11-28 19:59:26 INFO  TestBase:171-creating browser object chrome
+2017-11-28 19:59:29 INFO  TestBase:171-listner registeration done
+2017-11-28 19:59:29 INFO  TestBase:171-navigating tohttp://adjiva.com/qa-test/
+2017-11-28 19:59:34 INFO  TestBase:243-browser closed
+2017-11-28 20:00:27 INFO  TestBase:171-creating browser object chrome
+2017-11-28 20:00:30 INFO  TestBase:171-listner registeration done
+2017-11-28 20:00:30 INFO  TestBase:171-navigating tohttp://adjiva.com/qa-test/
+2017-11-28 20:00:34 INFO  TestBase:171-test object created fornull
+2017-11-28 20:00:34 INFO  TestBase:171-==============  starting Tc_00_VerifyRegistrationwithValiddata===============
+2017-11-28 20:00:34 INFO  TestBase:171-entered first name and object is:[[ChromeDriver: chrome on XP (3d0fd505e3ff601afff1a560ae7b7ffb)] -> name: first_name]
+2017-11-28 20:00:34 INFO  TestBase:171-entered last name and object is:[[ChromeDriver: chrome on XP (3d0fd505e3ff601afff1a560ae7b7ffb)] -> name: last_name]
+2017-11-28 20:00:35 INFO  TestBase:171-entered user name and object is:[[ChromeDriver: chrome on XP (3d0fd505e3ff601afff1a560ae7b7ffb)] -> name: user_name]
+2017-11-28 20:00:36 INFO  TestBase:171-entered user password and object is:[[ChromeDriver: chrome on XP (3d0fd505e3ff601afff1a560ae7b7ffb)] -> name: user_password]
+2017-11-28 20:00:37 INFO  TestBase:171-entered confirm user password and object is:[[ChromeDriver: chrome on XP (3d0fd505e3ff601afff1a560ae7b7ffb)] -> name: confirm_password]
+2017-11-28 20:01:00 INFO  TestBase:171-creating browser object chrome
+2017-11-28 20:01:02 INFO  TestBase:171-listner registeration done
+2017-11-28 20:01:02 INFO  TestBase:171-navigating tohttp://adjiva.com/qa-test/
+2017-11-28 20:01:06 INFO  TestBase:171-test object created fornull
+2017-11-28 20:01:06 INFO  TestBase:171-==============  starting Tc_00_VerifyRegistrationwithValiddata===============
+2017-11-28 20:01:07 INFO  TestBase:171-entered first name and object is:[[ChromeDriver: chrome on XP (9672f484f49115ff75c02df2360aa77e)] -> name: first_name]
+2017-11-28 20:01:07 INFO  TestBase:171-entered last name and object is:[[ChromeDriver: chrome on XP (9672f484f49115ff75c02df2360aa77e)] -> name: last_name]
+2017-11-28 20:01:08 INFO  TestBase:171-entered user name and object is:[[ChromeDriver: chrome on XP (9672f484f49115ff75c02df2360aa77e)] -> name: user_name]
+2017-11-28 20:01:08 INFO  TestBase:171-entered user password and object is:[[ChromeDriver: chrome on XP (9672f484f49115ff75c02df2360aa77e)] -> name: user_password]
+2017-11-28 20:01:10 INFO  TestBase:171-entered confirm user password and object is:[[ChromeDriver: chrome on XP (9672f484f49115ff75c02df2360aa77e)] -> name: confirm_password]
+2017-11-28 20:01:10 INFO  TestBase:171-entered confirm email  and object is:[[ChromeDriver: chrome on XP (9672f484f49115ff75c02df2360aa77e)] -> name: email]
+2017-11-28 20:01:11 INFO  TestBase:171-entered contact no  and object is:[[ChromeDriver: chrome on XP (9672f484f49115ff75c02df2360aa77e)] -> name: contact_no]
+2017-11-28 20:01:11 INFO  TestBase:171-submit button is not enabled
+2017-11-28 20:01:12 INFO  TestBase:171-screenshot has been taken for:registration_with_valid_data
+2017-11-28 20:01:12 INFO  TestBase:171-==============  finished Tc_00_VerifyRegistrationwithValiddata===============
+2017-11-28 20:01:12 INFO  TestBase:171-getResult method called
+2017-11-28 20:01:13 INFO  TestBase:243-browser closed
+2017-11-28 20:01:38 INFO  TestBase:171-creating browser object chrome
+2017-11-28 20:01:40 INFO  TestBase:171-listner registeration done
+2017-11-28 20:01:40 INFO  TestBase:171-navigating tohttp://adjiva.com/qa-test/
+2017-11-28 20:01:44 INFO  TestBase:171-test object created fornull
+2017-11-28 20:01:44 INFO  TestBase:171-==============  Starting Tc_004_VerifyRegistrationWithSpecialChracters===============
+2017-11-28 20:01:44 INFO  TestBase:171-Filling user details where special charcaters presents
+2017-11-28 20:01:45 INFO  TestBase:171-entered first name and object is:[[ChromeDriver: chrome on XP (5416809251b8ec16382f458c0eb1e7a0)] -> name: first_name]
+2017-11-28 20:01:45 INFO  TestBase:171-entered last name and object is:[[ChromeDriver: chrome on XP (5416809251b8ec16382f458c0eb1e7a0)] -> name: last_name]
+2017-11-28 20:02:12 INFO  TestBase:171-navigating tohttp://adjiva.com/qa-test/
+2017-11-28 20:02:15 INFO  TestBase:171-test object created fornull
+2017-11-28 20:02:15 INFO  TestBase:171-==============  Starting Tc_004_VerifyRegistrationWithSpecialChracters===============
+2017-11-28 20:02:15 INFO  TestBase:171-Filling user details where special charcaters presents
+2017-11-28 20:02:15 INFO  TestBase:171-entered first name and object is:[[FirefoxDriver: firefox on ANY (911b74fb-3db4-44cf-86c6-ab660520afc6)] -> name: first_name]
+2017-11-28 20:02:15 INFO  TestBase:171-entered last name and object is:[[FirefoxDriver: firefox on ANY (911b74fb-3db4-44cf-86c6-ab660520afc6)] -> name: last_name]
+2017-11-28 20:02:16 INFO  TestBase:171-entered user name and object is:[[FirefoxDriver: firefox on ANY (911b74fb-3db4-44cf-86c6-ab660520afc6)] -> name: user_name]
+2017-11-28 20:02:16 INFO  TestBase:171-entered user password and object is:[[FirefoxDriver: firefox on ANY (911b74fb-3db4-44cf-86c6-ab660520afc6)] -> name: user_password]
+2017-11-28 20:02:16 INFO  TestBase:171-entered confirm user password and object is:[[FirefoxDriver: firefox on ANY (911b74fb-3db4-44cf-86c6-ab660520afc6)] -> name: confirm_password]
+2017-11-28 20:02:16 INFO  TestBase:171-entered confirm email  and object is:[[FirefoxDriver: firefox on ANY (911b74fb-3db4-44cf-86c6-ab660520afc6)] -> name: email]
+2017-11-28 20:02:16 INFO  TestBase:171-entered contact no  and object is:[[FirefoxDriver: firefox on ANY (911b74fb-3db4-44cf-86c6-ab660520afc6)] -> name: contact_no]
+2017-11-28 20:02:16 INFO  TestBase:171-Submitting form
+2017-11-28 20:02:16 INFO  TestBase:171-submit button is not enabled
+2017-11-28 20:02:17 INFO  TestBase:171-screenshot has been taken for:registration_with_valid_data
+2017-11-28 20:02:17 INFO  TestBase:171-==============  Finished Tc_004_VerifyRegistrationWithSpecialChracters===============
+2017-11-28 20:02:17 INFO  TestBase:171-getResult method called
+2017-11-28 20:02:17 INFO  TestBase:171-test object created fornull
+2017-11-28 20:02:17 INFO  TestBase:171-==============  Starting Tc_004_VerifyRegistrationWithSpecialChracters===============
+2017-11-28 20:02:17 INFO  TestBase:171-Filling user details where special charcaters presents
+2017-11-28 20:02:17 INFO  TestBase:171-entered first name and object is:[[FirefoxDriver: firefox on ANY (911b74fb-3db4-44cf-86c6-ab660520afc6)] -> name: first_name]
+2017-11-28 20:02:17 INFO  TestBase:171-entered last name and object is:[[FirefoxDriver: firefox on ANY (911b74fb-3db4-44cf-86c6-ab660520afc6)] -> name: last_name]
+2017-11-28 20:02:17 INFO  TestBase:171-entered user name and object is:[[FirefoxDriver: firefox on ANY (911b74fb-3db4-44cf-86c6-ab660520afc6)] -> name: user_name]
+2017-11-28 20:02:17 INFO  TestBase:171-entered user password and object is:[[FirefoxDriver: firefox on ANY (911b74fb-3db4-44cf-86c6-ab660520afc6)] -> name: user_password]
+2017-11-28 20:02:17 INFO  TestBase:171-entered confirm user password and object is:[[FirefoxDriver: firefox on ANY (911b74fb-3db4-44cf-86c6-ab660520afc6)] -> name: confirm_password]
+2017-11-28 20:02:18 INFO  TestBase:171-entered confirm email  and object is:[[FirefoxDriver: firefox on ANY (911b74fb-3db4-44cf-86c6-ab660520afc6)] -> name: email]
+2017-11-28 20:02:18 INFO  TestBase:171-entered contact no  and object is:[[FirefoxDriver: firefox on ANY (911b74fb-3db4-44cf-86c6-ab660520afc6)] -> name: contact_no]
+2017-11-28 20:02:18 INFO  TestBase:171-Submitting form
+2017-11-28 20:02:18 INFO  TestBase:171-submit button is not enabled
+2017-11-28 20:02:18 INFO  TestBase:171-screenshot has been taken for:registration_with_valid_data
+2017-11-28 20:02:18 INFO  TestBase:171-==============  Finished Tc_004_VerifyRegistrationWithSpecialChracters===============
+2017-11-28 20:02:18 INFO  TestBase:171-getResult method called
+2017-11-28 20:02:18 INFO  TestBase:171-test object created fornull
+2017-11-28 20:02:18 INFO  TestBase:171-==============  Starting Tc_004_VerifyRegistrationWithSpecialChracters===============
+2017-11-28 20:02:18 INFO  TestBase:171-Filling user details where special charcaters presents
+2017-11-28 20:02:18 INFO  TestBase:171-entered first name and object is:[[FirefoxDriver: firefox on ANY (911b74fb-3db4-44cf-86c6-ab660520afc6)] -> name: first_name]
+2017-11-28 20:02:18 INFO  TestBase:171-entered last name and object is:[[FirefoxDriver: firefox on ANY (911b74fb-3db4-44cf-86c6-ab660520afc6)] -> name: last_name]
+2017-11-28 20:02:18 INFO  TestBase:171-entered user name and object is:[[FirefoxDriver: firefox on ANY (911b74fb-3db4-44cf-86c6-ab660520afc6)] -> name: user_name]
+2017-11-28 20:02:19 INFO  TestBase:171-entered user password and object is:[[FirefoxDriver: firefox on ANY (911b74fb-3db4-44cf-86c6-ab660520afc6)] -> name: user_password]
+2017-11-28 20:02:19 INFO  TestBase:171-entered confirm user password and object is:[[FirefoxDriver: firefox on ANY (911b74fb-3db4-44cf-86c6-ab660520afc6)] -> name: confirm_password]
+2017-11-28 20:02:19 INFO  TestBase:171-entered confirm email  and object is:[[FirefoxDriver: firefox on ANY (911b74fb-3db4-44cf-86c6-ab660520afc6)] -> name: email]
+2017-11-28 20:02:19 INFO  TestBase:171-entered contact no  and object is:[[FirefoxDriver: firefox on ANY (911b74fb-3db4-44cf-86c6-ab660520afc6)] -> name: contact_no]
+2017-11-28 20:02:19 INFO  TestBase:171-Submitting form
+2017-11-28 20:02:19 INFO  TestBase:171-submit button is not enabled
+2017-11-28 20:02:19 INFO  TestBase:171-screenshot has been taken for:registration_with_valid_data
+2017-11-28 20:02:19 INFO  TestBase:171-==============  Finished Tc_004_VerifyRegistrationWithSpecialChracters===============
+2017-11-28 20:02:19 INFO  TestBase:171-getResult method called
+2017-11-28 20:02:19 INFO  TestBase:171-test object created fornull
+2017-11-28 20:02:19 INFO  TestBase:171-==============  Starting Tc_004_VerifyRegistrationWithSpecialChracters===============
+2017-11-28 20:02:19 INFO  TestBase:171-Filling user details where special charcaters presents
+2017-11-28 20:02:19 INFO  TestBase:171-entered first name and object is:[[FirefoxDriver: firefox on ANY (911b74fb-3db4-44cf-86c6-ab660520afc6)] -> name: first_name]
+2017-11-28 20:02:20 INFO  TestBase:171-entered last name and object is:[[FirefoxDriver: firefox on ANY (911b74fb-3db4-44cf-86c6-ab660520afc6)] -> name: last_name]
+2017-11-28 20:02:20 INFO  TestBase:171-entered user name and object is:[[FirefoxDriver: firefox on ANY (911b74fb-3db4-44cf-86c6-ab660520afc6)] -> name: user_name]
+2017-11-28 20:02:20 INFO  TestBase:171-entered user password and object is:[[FirefoxDriver: firefox on ANY (911b74fb-3db4-44cf-86c6-ab660520afc6)] -> name: user_password]
+2017-11-28 20:02:20 INFO  TestBase:171-entered confirm user password and object is:[[FirefoxDriver: firefox on ANY (911b74fb-3db4-44cf-86c6-ab660520afc6)] -> name: confirm_password]
+2017-11-28 20:02:21 INFO  TestBase:171-entered confirm email  and object is:[[FirefoxDriver: firefox on ANY (911b74fb-3db4-44cf-86c6-ab660520afc6)] -> name: email]
+2017-11-28 20:02:21 INFO  TestBase:171-entered contact no  and object is:[[FirefoxDriver: firefox on ANY (911b74fb-3db4-44cf-86c6-ab660520afc6)] -> name: contact_no]
+2017-11-28 20:02:21 INFO  TestBase:171-Submitting form
+2017-11-28 20:02:21 INFO  TestBase:171-submit button is not enabled
+2017-11-28 20:02:21 INFO  TestBase:171-screenshot has been taken for:registration_with_valid_data
+2017-11-28 20:02:21 INFO  TestBase:171-==============  Finished Tc_004_VerifyRegistrationWithSpecialChracters===============
+2017-11-28 20:02:21 INFO  TestBase:171-getResult method called
+2017-11-28 20:02:21 INFO  TestBase:171-test object created fornull
+2017-11-28 20:02:21 INFO  TestBase:171-==============  Starting Tc_004_VerifyRegistrationWithSpecialChracters===============
+2017-11-28 20:02:21 INFO  TestBase:171-Filling user details where special charcaters presents
+2017-11-28 20:02:21 INFO  TestBase:171-entered first name and object is:[[FirefoxDriver: firefox on ANY (911b74fb-3db4-44cf-86c6-ab660520afc6)] -> name: first_name]
+2017-11-28 20:02:21 INFO  TestBase:171-entered last name and object is:[[FirefoxDriver: firefox on ANY (911b74fb-3db4-44cf-86c6-ab660520afc6)] -> name: last_name]
+2017-11-28 20:02:21 INFO  TestBase:171-entered user name and object is:[[FirefoxDriver: firefox on ANY (911b74fb-3db4-44cf-86c6-ab660520afc6)] -> name: user_name]
+2017-11-28 20:02:22 INFO  TestBase:171-entered user password and object is:[[FirefoxDriver: firefox on ANY (911b74fb-3db4-44cf-86c6-ab660520afc6)] -> name: user_password]
+2017-11-28 20:02:22 INFO  TestBase:171-entered confirm user password and object is:[[FirefoxDriver: firefox on ANY (911b74fb-3db4-44cf-86c6-ab660520afc6)] -> name: confirm_password]
+2017-11-28 20:02:22 INFO  TestBase:171-entered confirm email  and object is:[[FirefoxDriver: firefox on ANY (911b74fb-3db4-44cf-86c6-ab660520afc6)] -> name: email]
+2017-11-28 20:02:22 INFO  TestBase:171-entered contact no  and object is:[[FirefoxDriver: firefox on ANY (911b74fb-3db4-44cf-86c6-ab660520afc6)] -> name: contact_no]
+2017-11-28 20:02:22 INFO  TestBase:171-Submitting form
+2017-11-28 20:02:22 INFO  TestBase:171-submit button is not enabled
+2017-11-28 20:02:22 INFO  TestBase:171-screenshot has been taken for:registration_with_valid_data
+2017-11-28 20:02:22 INFO  TestBase:171-==============  Finished Tc_004_VerifyRegistrationWithSpecialChracters===============
+2017-11-28 20:02:22 INFO  TestBase:171-getResult method called
+2017-11-28 20:02:23 INFO  TestBase:243-browser closed
+2017-11-28 20:05:00 INFO  TestBase:171-navigating tohttp://adjiva.com/qa-test/
+2017-11-28 20:05:03 INFO  TestBase:171-test object created fornull
+2017-11-28 20:05:03 INFO  TestBase:171-==============  starting Tc_00_VerifyRegistrationwithValiddata===============
+2017-11-28 20:05:03 INFO  TestBase:171-entered first name and object is:[[FirefoxDriver: firefox on ANY (e7dda18a-898e-4362-83fa-450930ce0d1a)] -> name: first_name]
+2017-11-28 20:05:03 INFO  TestBase:171-entered last name and object is:[[FirefoxDriver: firefox on ANY (e7dda18a-898e-4362-83fa-450930ce0d1a)] -> name: last_name]
+2017-11-28 20:05:03 INFO  TestBase:171-entered user name and object is:[[FirefoxDriver: firefox on ANY (e7dda18a-898e-4362-83fa-450930ce0d1a)] -> name: user_name]
+2017-11-28 20:05:03 INFO  TestBase:171-entered user password and object is:[[FirefoxDriver: firefox on ANY (e7dda18a-898e-4362-83fa-450930ce0d1a)] -> name: user_password]
+2017-11-28 20:05:04 INFO  TestBase:171-entered confirm user password and object is:[[FirefoxDriver: firefox on ANY (e7dda18a-898e-4362-83fa-450930ce0d1a)] -> name: confirm_password]
+2017-11-28 20:05:04 INFO  TestBase:171-entered confirm email  and object is:[[FirefoxDriver: firefox on ANY (e7dda18a-898e-4362-83fa-450930ce0d1a)] -> name: email]
+2017-11-28 20:05:04 INFO  TestBase:171-entered contact no  and object is:[[FirefoxDriver: firefox on ANY (e7dda18a-898e-4362-83fa-450930ce0d1a)] -> name: contact_no]
+2017-11-28 20:05:04 INFO  TestBase:171-submit button is not enabled
+2017-11-28 20:05:04 INFO  TestBase:171-screenshot has been taken for:registration_with_valid_data
+2017-11-28 20:05:04 INFO  TestBase:171-==============  finished Tc_00_VerifyRegistrationwithValiddata===============
+2017-11-28 20:05:04 INFO  TestBase:171-getResult method called
+2017-11-28 20:05:05 INFO  TestBase:243-browser closed
